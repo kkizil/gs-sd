@@ -2,8 +2,8 @@
 
 /**
  *
- * @author Kerim Uygur Kizil, ID#70494
- * INDR 511 HW#4 
+ * @author Kerim Uygur Kizil
+ * 
  * Due: 28.02.2020
  * 
  */
